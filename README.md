@@ -2,8 +2,9 @@
 
 This project focuses on building an Artificial Neural Network (ANN) from scratch to classify customer churn. The objective is to predict whether customers will leave a service based on their behavioral and demographic data.
 
-Table of Contents
+## Table of Contents
 Introduction
+
 Dataset
 Model Architecture
 Installation
